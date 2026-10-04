@@ -18,7 +18,7 @@
 ### 💼 Featured Work
 - 🤖 **Sentiment Analysis System** - High-accuracy NLP model
 - 🏦 **Banking Web App** - Full-stack with secure authentication
-- 🎯 Currently building: [Java-webapp](https://github.com/himanshuleel5113/java-webapp.git)
+- 🎯 Currently build: [Java-webapp](https://acebank-production.up.railway.app/)
 
 ### 🛠️ Tech Arsenal
 
@@ -69,7 +69,7 @@
 
 ### 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://himanshuleel.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://himanshuleel5113.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuleel)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshuleel5113)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leelhimanshu5113@gmail.com)
